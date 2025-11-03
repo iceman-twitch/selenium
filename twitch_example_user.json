@@ -1,0 +1,16 @@
+{
+    "username": "example_user",
+    "password": "YOUR_TWITCH_PASSWORD_HERE",
+    "email": {
+        "address": "your_email@example.com",
+        "password": "YOUR_EMAIL_PASSWORD_HERE",
+        "cookies": []
+    },
+    "twitch_cookies": [],
+    "last_login": null,
+    "settings": {
+        "auto_login": true,
+        "chat_enabled": true,
+        "read_chat": true
+    }
+}

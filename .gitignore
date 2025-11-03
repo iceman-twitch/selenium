@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Selenium
+chromedriver.exe
+geckodriver.exe
+*.log
+
+# Twitch Bot Config Files (SENSITIVE!)
+twitch_*.json
+!twitch_example_user.json
+
+# Proxy files
+proxy.txt
+
+# Cookies and session data
+*.pkl
+cookies.json
+session_*.json
+
+# Screenshots and PDFs from examples
+*.png
+*.pdf
+!example_*.png
+
+# HTML captures
+page_source.html
+page_text.txt
+page_metadata.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files
+test_output/
+temp/
+tmp/

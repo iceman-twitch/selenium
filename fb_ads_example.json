@@ -1,0 +1,133 @@
+[
+  {
+    "advertiser": "Nike",
+    "text": "Just Do It. Shop the latest Nike Air Max collection. Free shipping on orders over $50.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/123456789_example_nike_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/987654321_example_nike_2.jpg"
+    ],
+    "cta_text": "Shop Now",
+    "sponsor_info": "Paid for by Nike Inc.",
+    "date_scraped": "2025-01-03T14:30:22.123456",
+    "proxy": "123.45.67.89:8080",
+    "timestamp": 1704290422
+  },
+  {
+    "advertiser": "Adidas",
+    "text": "Impossible is Nothing. New Ultraboost 23 running shoes now available. Performance meets style.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/111222333_example_adidas_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/444555666_example_adidas_2.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/777888999_example_adidas_3.jpg"
+    ],
+    "cta_text": "Learn More",
+    "sponsor_info": "Paid for by Adidas America Inc.",
+    "date_scraped": "2025-01-03T14:30:25.789012",
+    "proxy": "123.45.67.89:8080",
+    "timestamp": 1704290425
+  },
+  {
+    "advertiser": "Puma",
+    "text": "Forever Faster. Discover the new RS-X collection. Bold designs for bold moves.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/222333444_example_puma_1.jpg"
+    ],
+    "cta_text": "Shop Now",
+    "sponsor_info": "Paid for by PUMA North America",
+    "date_scraped": "2025-01-03T14:30:28.345678",
+    "proxy": "98.76.54.32:3128",
+    "timestamp": 1704290428
+  },
+  {
+    "advertiser": "Under Armour",
+    "text": "The Only Way Is Through. UA HOVR Phantom 3 - Zero gravity feel. Maximum energy return.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/555666777_example_ua_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/888999000_example_ua_2.jpg"
+    ],
+    "cta_text": "Buy Now",
+    "sponsor_info": "Paid for by Under Armour, Inc.",
+    "date_scraped": "2025-01-03T14:30:31.901234",
+    "proxy": "98.76.54.32:3128",
+    "timestamp": 1704290431
+  },
+  {
+    "advertiser": "New Balance",
+    "text": "Fearlessly Independent Since 1906. Fresh Foam X 1080v13. Superior comfort for every run.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/123789456_example_nb_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/654987321_example_nb_2.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/147258369_example_nb_3.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/963852741_example_nb_4.jpg"
+    ],
+    "cta_text": "Explore Collection",
+    "sponsor_info": "Paid for by New Balance Athletics, Inc.",
+    "date_scraped": "2025-01-03T14:30:34.567890",
+    "proxy": "45.67.89.12:8888",
+    "timestamp": 1704290434
+  },
+  {
+    "advertiser": "Reebok",
+    "text": "Be More Human. Reebok Nano X3 - Built for CrossFit. Designed for everything.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/789123456_example_reebok_1.jpg"
+    ],
+    "cta_text": "Shop Collection",
+    "sponsor_info": "Paid for by Reebok International Ltd.",
+    "date_scraped": "2025-01-03T14:30:37.234567",
+    "proxy": "45.67.89.12:8888",
+    "timestamp": 1704290437
+  },
+  {
+    "advertiser": "ASICS",
+    "text": "Sound Mind, Sound Body. GEL-KAYANO 30. 30 years of performance innovation.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/321654987_example_asics_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/159753486_example_asics_2.jpg"
+    ],
+    "cta_text": "Discover More",
+    "sponsor_info": "Paid for by ASICS America Corporation",
+    "date_scraped": "2025-01-03T14:30:40.890123",
+    "proxy": "67.89.12.34:9090",
+    "timestamp": 1704290440
+  },
+  {
+    "advertiser": "Brooks Running",
+    "text": "Run Happy. Ghost 15 - Our smoothest ride. Perfect for every run, every runner.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/852963741_example_brooks_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/741852963_example_brooks_2.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/369258147_example_brooks_3.jpg"
+    ],
+    "cta_text": "Find Your Shoe",
+    "sponsor_info": "Paid for by Brooks Sports, Inc.",
+    "date_scraped": "2025-01-03T14:30:43.456789",
+    "proxy": "67.89.12.34:9090",
+    "timestamp": 1704290443
+  },
+  {
+    "advertiser": "Saucony",
+    "text": "Run For Good. Endorphin Speed 3. Race day speed. Training day comfort.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/456789123_example_saucony_1.jpg"
+    ],
+    "cta_text": "Shop Now",
+    "sponsor_info": "Paid for by Saucony, Inc.",
+    "date_scraped": "2025-01-03T14:30:46.012345",
+    "proxy": "89.12.34.56:7777",
+    "timestamp": 1704290446
+  },
+  {
+    "advertiser": "On Running",
+    "text": "It's All About How You Feel. CloudMonster. Maximum cushioning. Explosive forward motion.",
+    "media": [
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/987456321_example_on_1.jpg",
+      "https://scontent.xx.fbcdn.net/v/t45.1600-4/654123789_example_on_2.jpg"
+    ],
+    "cta_text": "Explore",
+    "sponsor_info": "Paid for by On AG",
+    "date_scraped": "2025-01-03T14:30:49.678901",
+    "proxy": "89.12.34.56:7777",
+    "timestamp": 1704290449
+  }
+]

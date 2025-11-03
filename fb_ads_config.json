@@ -1,0 +1,67 @@
+{
+  "scraper_config": {
+    "search_term": "nike",
+    "country_code": "US",
+    "max_workers": 5,
+    "max_ads_per_proxy": 20,
+    "headless_mode": true,
+    "scroll_attempts": 10
+  },
+  "data_to_scrape": {
+    "advertiser_name": true,
+    "ad_text_content": true,
+    "call_to_action": true,
+    "sponsor_information": true,
+    "media_urls": true,
+    "media_count": true,
+    "scrape_timestamp": true,
+    "proxy_used": true
+  },
+  "output_settings": {
+    "save_json": true,
+    "save_csv": true,
+    "save_summary": true,
+    "output_directory": "output",
+    "log_directory": "logs"
+  },
+  "examples": {
+    "search_terms": [
+      "",
+      "nike",
+      "fitness",
+      "real estate",
+      "cryptocurrency",
+      "fashion",
+      "technology"
+    ],
+    "country_codes": [
+      "",
+      "US",
+      "GB",
+      "CA",
+      "AU",
+      "DE",
+      "FR",
+      "JP",
+      "BR"
+    ],
+    "notes": {
+      "empty_search_term": "Leaving search_term empty ('') will scrape all recent ads without filtering",
+      "empty_country_code": "Leaving country_code empty ('') will search ads from all countries",
+      "country_codes_format": "Use 2-letter ISO country codes (US, GB, CA, etc.)",
+      "max_workers": "Number of parallel browsers (5-10 recommended for best performance)",
+      "max_ads_per_proxy": "Maximum ads to collect per proxy before stopping (10-50 recommended)",
+      "scroll_attempts": "How many times to scroll down for more ads (5-15 recommended)"
+    }
+  },
+  "field_descriptions": {
+    "advertiser": "The name of the company/page running the ad",
+    "text": "The main ad copy/description text",
+    "cta_text": "Call-to-action button text (e.g., 'Shop Now', 'Learn More')",
+    "sponsor_info": "Sponsorship/funding information",
+    "media": "Array of image/video URLs used in the ad",
+    "date_scraped": "ISO timestamp when the ad was scraped",
+    "proxy": "Proxy server used for scraping this ad",
+    "timestamp": "Unix timestamp of scrape time"
+  }
+}

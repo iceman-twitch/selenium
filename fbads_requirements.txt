@@ -1,0 +1,22 @@
+# Facebook Ads Scraper - Dependencies
+
+# Core Selenium packages
+selenium>=4.15.0
+selenium-stealth>=1.0.6
+webdriver-manager>=4.0.1
+
+# HTTP requests
+requests>=2.31.0
+
+# Already included in Python standard library (no installation needed):
+# - asyncio
+# - concurrent.futures
+# - json
+# - csv
+# - logging
+# - datetime
+# - pathlib
+# - typing
+# - time
+# - random
+# - sys
